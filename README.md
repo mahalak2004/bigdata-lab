@@ -22,3 +22,8 @@ This repository contains practical experiments for learning Big Data technologie
 
 ## Author
 Mahalakshmi
+
+## Experiment 12: Git and GitHub Collaboration
+- Create and switch branches
+- Track changes using Git
+- Commit changes and push branches to GitHub
